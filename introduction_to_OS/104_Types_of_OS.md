@@ -23,6 +23,9 @@ Operating Systems can be categorized based on:
 > 🖥️ Example OS:  
 > **IBM z/OS**
 
+![image](https://github.com/user-attachments/assets/6c542220-817d-4ce7-8cb9-0642576c2401)
+
+
 ---
 
 ## 2️⃣ Multiprogramming Operating Systems
@@ -37,6 +40,8 @@ Operating Systems can be categorized based on:
 
 > 🖥️ Example OS:  
 > **Linux, macOS, Windows NT**
+
+![image](https://github.com/user-attachments/assets/63fa57bb-6a63-4e18-a687-6449916128e8)
 
 ---
 
@@ -65,6 +70,8 @@ Operating Systems can be categorized based on:
 
 > 🖥️ Example OS:  
 > **Google File System, Apache Hadoop, BitTorrent**
+
+![image](https://github.com/user-attachments/assets/03eb8b7a-8260-4cba-bc50-24aaa860d6cb)
 
 ---
 
