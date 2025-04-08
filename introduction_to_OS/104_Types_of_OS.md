@@ -8,6 +8,8 @@ Operating Systems can be categorized based on:
 - Process management approach
 - Application domain
 
+![image](https://github.com/user-attachments/assets/6c542220-817d-4ce7-8cb9-0642576c2401)
+
 ---
 
 ## 1️⃣ Batch Operating Systems
@@ -22,9 +24,6 @@ Operating Systems can be categorized based on:
 
 > 🖥️ Example OS:  
 > **IBM z/OS**
-
-![image](https://github.com/user-attachments/assets/6c542220-817d-4ce7-8cb9-0642576c2401)
-
 
 ---
 
