@@ -11,6 +11,20 @@ CPU scheduling is the backbone of process management in an OS. It determines **w
 - Ensure fairness and responsiveness  
 - Avoid starvation  
 
+---
+
+## 🔑 Key Terms in CPU Scheduling
+
+| **Term**            | **Definition**                                                               | **Simple Example**                                |
+|---------------------|-------------------------------------------------------------------------------|----------------------------------------------------|
+| **Burst Time (BT)** | Time required by a process to execute on the CPU                              | If a process needs 5ms to complete, its BT = 5     |
+| **Arrival Time (AT)** | Time at which a process enters the ready queue                             | If a process arrives at 2ms, AT = 2                |
+| **Completion Time (CT)** | Time at which a process finishes execution                             | If a process finishes at 10ms, CT = 10             |
+| **Turnaround Time (TAT)** | Total time taken from arrival to completion <br> **TAT = CT − AT**     | If AT = 2 and CT = 10, then TAT = 8                |
+| **Waiting Time (WT)** | Time spent waiting in the ready queue (not executing) <br> **WT = TAT − BT** | If TAT = 8 and BT = 5, then WT = 3                 |
+| **Response Time (RT)** | Time from arrival to the first time the CPU starts executing the process <br> **RT = Start Time − AT** | If a process starts at 4 and AT = 2, then RT = 2   |
+
+
 Schedulers use different **algorithms** to decide this, depending on system goals and process behavior.
 
 ---
