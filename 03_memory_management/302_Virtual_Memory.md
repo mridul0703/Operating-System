@@ -6,6 +6,8 @@ This is achieved by using both the computer's physical memory (**RAM**) and a po
 
 This allows for more efficient and flexible use of memory, enabling systems to run larger applications and multitask more effectively.
 
+![image](https://github.com/user-attachments/assets/75a4d92d-b0ce-4a28-8a91-4dfe7b576b94)
+
 ---
 
 ## 🌟 Advantages of Virtual Memory
@@ -32,6 +34,8 @@ Paging and segmentation are two approaches to memory management in operating sys
 - Divides memory into **variable-sized segments** based on logical divisions (e.g., functions, arrays, modules).
 - Each segment can grow or shrink independently.
 - Provides a logical way of memory allocation that matches the program structure but may suffer from fragmentation.
+  
+![image](https://github.com/user-attachments/assets/2e6f5677-e26d-43d1-937a-f44e42d22b65)
 
 ### 🔍 Comparison: Paging vs Segmentation
 
@@ -66,6 +70,8 @@ Paging and segmentation are two approaches to memory management in operating sys
 ### 📝 Key Difference
 - **Logical Address Space**: A virtualized abstraction used by software.
 - **Physical Address Space**: The actual memory hardware.
+
+![image](https://github.com/user-attachments/assets/ef5df80a-a236-4f48-8a46-dd2b214f2a11)
 
 ---
 
